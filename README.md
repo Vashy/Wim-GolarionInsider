@@ -1,2 +1,3 @@
 # Wim-GolarionInsider
-Progetto di Web Information Managment - UniPD
+Rapporto di usabilità del corso di Web Information Managment - UniPD
+
